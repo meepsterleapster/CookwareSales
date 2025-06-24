@@ -1,0 +1,33 @@
+body {
+    font-size: 16px;
+    font-family: 'Times New Roman', 'Georgia', 'Fantasy';
+    background-color: #88B04B;
+}
+
+h1 {
+    font-weight: 300;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: #647846;
+}
+
+p:hover {
+    background-color: #1dcd5b;
+}
+
+.link {
+    font-style: italic;
+}
+
+section ul {
+    line-height: 1.8;
+}
+
+a {
+    margin-right: 10px;
+}
+

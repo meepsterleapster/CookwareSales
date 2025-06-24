@@ -1,0 +1,112 @@
+/* Existing styles from your CSS file */
+.image-upload {
+    border: 1px dashed #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .image-upload input[type="file"] {
+    display: none;
+  }
+  
+  .upload-area {
+    display: block;
+    cursor: pointer;
+  }
+  
+  .dimension-box {
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    border-radius: 5px;
+    position: relative;
+    margin-right: 10px;
+    min-width: 100px;
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #999;
+  }
+  
+  .submit-btn {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0069d9;
+  }
+  
+  /* New styles to add */
+  .centered-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-control, .form-select {
+    margin-top: 8px;
+  }
+  
+  .preview-image {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  
+  .dimensions-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .dimension-box {
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    margin-bottom: 10px;
+  }
+  
+  .dimension-title {
+    margin-bottom: 8px;
+  }
+  
+  .dimension-input-container {
+    display: flex;
+    width: 100%;
+    gap: 5px;
+  }
+  
+  .dimension-value {
+    flex: 2;
+  }
+  
+  .dimension-unit {
+    flex: 1;
+  }
+  
+  /* Additional spacing for form elements */
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+
+  .description-input {
+    width: 100%;
+  }

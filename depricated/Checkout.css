@@ -1,0 +1,70 @@
+.checkout-container {
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .checkout-content {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+  }
+  
+  .checkout-product {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .checkout-img {
+    width: 180px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .checkout-info {
+    flex-grow: 1;
+  }
+  
+  .checkout-info h2 {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .confirm-button, .back-button {
+    display: block;
+    width: 100%;
+    background: #ff9800;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+  }
+  
+  .confirm-button:hover {
+    background: #e68900;
+  }
+  
+  .back-button {
+    background: #ccc;
+  }
+  
+  .back-button:hover {
+    background: #bbb;
+  }
+  
+  .rental-duration {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  

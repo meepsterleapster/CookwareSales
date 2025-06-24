@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Instant Vortex Plus Air Fryer",
+      "price": 33,
+      "features": "7-in-1 Functionality",
+      "description": "Crisp, roast, bake, reheat, dehydrate & more.",
+      "specialFeatures": "OdorErase Technology",
+      "dimensions": "14.92 x 12.36 x 12.83 inches",
+      "material": "Stainless Steel",
+      "capacity": "6 Quart",
+      "color": "Black",
+      "mainImage": "/img/product.jpg",
+      "extraImage1": "/img/extra1.jpg",
+      "extraImage2": "/img/extra2.jpg" 
+    }
+  ]
+  
